@@ -15,16 +15,16 @@
       },
       "Mutagen.Bethesda.Synthesis": {
         "type": "Direct",
-        "requested": "[0.36.5, )",
-        "resolved": "0.36.5",
-        "contentHash": "XcWaeX9mS0hbuoy/yhm0EmUe9HXp3P3xEQg7k+haEPWCngcnc6HK3jgpJLsbW9vMmWYpNmICyjZS+4vLD3+xpg==",
+        "requested": "[0.36.6, )",
+        "resolved": "0.36.6",
+        "contentHash": "qBIf15Mfzt6+DtqadBuwhk7DLcylGXX9Sdv9laKlw/3vBs1S8A+mJBKQ9SQvoYqigrfpm2sZ0b3aYxFyGAA2ag==",
         "dependencies": {
-          "Mutagen.Bethesda.Core": "0.54.2",
-          "Mutagen.Bethesda.Json": "0.54.2",
+          "Mutagen.Bethesda.Core": "0.54.4",
+          "Mutagen.Bethesda.Json": "0.54.4",
           "Newtonsoft.Json": "13.0.4",
           "Noggog.CSharpExt": "4.3.0",
           "Noggog.SourceGenerators": "4.3.0",
-          "Synthesis.Bethesda": "0.36.5"
+          "Synthesis.Bethesda": "0.36.6"
         }
       },
       "CommandLineParser": {
@@ -151,15 +151,15 @@
       },
       "Mutagen.Bethesda.Core": {
         "type": "Transitive",
-        "resolved": "0.54.3",
-        "contentHash": "ut/Jur6MRlUHX9jSBMBBCdv7UJFRkTJDjanJQZCa6wxxmFHVbaGzk50hBefPtmzXZWCchU6J+7fIB1ojHIxKcw==",
+        "resolved": "0.54.4",
+        "contentHash": "tvJivkRTU4Joyml3ol6GnV9c3aLfdXNvlhK2JIE/WVULQlEBY/uIqEhSfn1QBQ/HCCCcAaPsKLrSoC2v3q7P3g==",
         "dependencies": {
           "GameFinder.StoreHandlers.GOG": "4.9.0",
           "GameFinder.StoreHandlers.Steam": "4.9.0",
           "GameFinder.StoreHandlers.Xbox": "4.9.0",
           "K4os.Compression.LZ4.Streams": "1.3.8",
           "Loqui": "3.7.0",
-          "Mutagen.Bethesda.Kernel": "0.54.3",
+          "Mutagen.Bethesda.Kernel": "0.54.4",
           "Noggog.CSharpExt": "4.3.0",
           "SharpZipLib": "1.4.2",
           "StrongInject": "1.4.4",
@@ -168,18 +168,18 @@
       },
       "Mutagen.Bethesda.Json": {
         "type": "Transitive",
-        "resolved": "0.54.2",
-        "contentHash": "GPvdm+FmmHZkEormGtMKCCSbOLqfy+xsWrNpJVwUwambcAxahHLtxp0YtflMRfIPbCkKWJ/afde+WxFQ6aa37g==",
+        "resolved": "0.54.4",
+        "contentHash": "UZgUXxxLEfRaCyUTtd65J3kMvUEv8/bAtoIDwsytpMVE50kEf25GtwKI/DrKjwGJd6EwNIPIDotA4EwUXwmzeg==",
         "dependencies": {
-          "Mutagen.Bethesda.Core": "0.54.2",
-          "Mutagen.Bethesda.Kernel": "0.54.2",
+          "Mutagen.Bethesda.Core": "0.54.4",
+          "Mutagen.Bethesda.Kernel": "0.54.4",
           "Newtonsoft.Json": "13.0.4"
         }
       },
       "Mutagen.Bethesda.Kernel": {
         "type": "Transitive",
-        "resolved": "0.54.3",
-        "contentHash": "LCOOzGMrqQf/wwoarvMQQaUeZbvsfUYGdfIkJr6FZbrBn1QQpNzs6XRpBFfFMwZiWQXfxSio2dGXUZJ+B4zVeA==",
+        "resolved": "0.54.4",
+        "contentHash": "WsoFjEXUkoI8oIhmZWStlUlPUo9jv8pedP6wayw+9ZSqFYAe5XkgYEOcmbbd7Yxq1Uc7Z0H3An4whvd22KG4tQ==",
         "dependencies": {
           "Noggog.CSharpExt": "4.3.0"
         }
@@ -235,11 +235,11 @@
       },
       "Synthesis.Bethesda": {
         "type": "Transitive",
-        "resolved": "0.36.5",
-        "contentHash": "XBlnBHJFxdgrw18qGuOpDiu/KQH306LaiIH5+n8zB3bQo7dUDIiD6e7gcV4D68J/QsowwFq+nam+ZUllDq4Ltg==",
+        "resolved": "0.36.6",
+        "contentHash": "7QAt2pVKsopZHXxls/Z1CpVJejbdIvUUI5OgQvG+KtS/Ue5XXhpbuBpaBftw/rNoRN/ze804+gdc0DU5A0TFIg==",
         "dependencies": {
           "CommandLineParser": "2.9.1",
-          "Mutagen.Bethesda.Kernel": "0.54.2",
+          "Mutagen.Bethesda.Kernel": "0.54.4",
           "Noggog.CSharpExt": "4.3.0"
         }
       },
